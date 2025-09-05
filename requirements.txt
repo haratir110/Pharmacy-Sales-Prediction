@@ -1,0 +1,7 @@
+Flask
+pandas
+numpy
+xgboost
+scikit-learn
+matplotlib
+statsmodels

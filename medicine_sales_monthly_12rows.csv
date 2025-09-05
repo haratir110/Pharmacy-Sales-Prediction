@@ -1,0 +1,361 @@
+Medicine,Category,Year-Month,Season,Units Sold,Stock Available,Expiry Date
+Acebrophylline,Cough,2024-01,Winter,1872,1143,2026-12-31
+Acebrophylline,Cough,2024-02,Winter,1408,1143,2026-12-31
+Acebrophylline,Cough,2024-03,Spring,1579,1143,2026-12-31
+Acebrophylline,Cough,2024-04,Spring,1525,1143,2026-12-31
+Acebrophylline,Cough,2024-05,Spring,1700,1143,2026-12-31
+Acebrophylline,Cough,2024-06,Summer,1560,1143,2026-12-31
+Acebrophylline,Cough,2024-07,Summer,1772,1143,2026-12-31
+Acebrophylline,Cough,2024-08,Summer,1587,1143,2026-12-31
+Acebrophylline,Cough,2024-09,Monsoon,1811,1143,2026-12-31
+Acebrophylline,Cough,2024-10,Monsoon,1587,1143,2026-12-31
+Acebrophylline,Cough,2024-11,Monsoon,1551,1143,2026-12-31
+Acebrophylline,Cough,2024-12,Winter,1832,1143,2026-12-31
+Acetaminophen,Fever,2024-01,Winter,1505,1460,2026-12-31
+Acetaminophen,Fever,2024-02,Winter,1719,1460,2026-12-31
+Acetaminophen,Fever,2024-03,Spring,1731,1460,2026-12-31
+Acetaminophen,Fever,2024-04,Spring,1890,1460,2026-12-31
+Acetaminophen,Fever,2024-05,Spring,1424,1460,2026-12-31
+Acetaminophen,Fever,2024-06,Summer,1501,1460,2026-12-31
+Acetaminophen,Fever,2024-07,Summer,1785,1460,2026-12-31
+Acetaminophen,Fever,2024-08,Summer,1743,1460,2026-12-31
+Acetaminophen,Fever,2024-09,Monsoon,1672,1460,2026-12-31
+Acetaminophen,Fever,2024-10,Monsoon,1870,1460,2026-12-31
+Acetaminophen,Fever,2024-11,Monsoon,1443,1460,2026-12-31
+Acetaminophen,Fever,2024-12,Winter,1826,1460,2026-12-31
+Ambroxol,Cough,2024-01,Winter,1721,1527,2026-12-31
+Ambroxol,Cough,2024-02,Winter,1717,1527,2026-12-31
+Ambroxol,Cough,2024-03,Spring,1615,1527,2026-12-31
+Ambroxol,Cough,2024-04,Spring,1558,1527,2026-12-31
+Ambroxol,Cough,2024-05,Spring,1886,1527,2026-12-31
+Ambroxol,Cough,2024-06,Summer,1436,1527,2026-12-31
+Ambroxol,Cough,2024-07,Summer,1574,1527,2026-12-31
+Ambroxol,Cough,2024-08,Summer,1778,1527,2026-12-31
+Ambroxol,Cough,2024-09,Monsoon,1698,1527,2026-12-31
+Ambroxol,Cough,2024-10,Monsoon,1686,1527,2026-12-31
+Ambroxol,Cough,2024-11,Monsoon,1681,1527,2026-12-31
+Ambroxol,Cough,2024-12,Winter,2038,1527,2026-12-31
+Aspirin,Fever,2024-01,Winter,1680,623,2026-12-31
+Aspirin,Fever,2024-02,Winter,1505,623,2026-12-31
+Aspirin,Fever,2024-03,Spring,1755,623,2026-12-31
+Aspirin,Fever,2024-04,Spring,1778,623,2026-12-31
+Aspirin,Fever,2024-05,Spring,1938,623,2026-12-31
+Aspirin,Fever,2024-06,Summer,1620,623,2026-12-31
+Aspirin,Fever,2024-07,Summer,1743,623,2026-12-31
+Aspirin,Fever,2024-08,Summer,1492,623,2026-12-31
+Aspirin,Fever,2024-09,Monsoon,1579,623,2026-12-31
+Aspirin,Fever,2024-10,Monsoon,1686,623,2026-12-31
+Aspirin,Fever,2024-11,Monsoon,1853,623,2026-12-31
+Aspirin,Fever,2024-12,Winter,1523,623,2026-12-31
+Bromhexine,Cough,2024-01,Winter,1423,872,2026-12-31
+Bromhexine,Cough,2024-02,Winter,1762,872,2026-12-31
+Bromhexine,Cough,2024-03,Spring,1749,872,2026-12-31
+Bromhexine,Cough,2024-04,Spring,1580,872,2026-12-31
+Bromhexine,Cough,2024-05,Spring,1685,872,2026-12-31
+Bromhexine,Cough,2024-06,Summer,1618,872,2026-12-31
+Bromhexine,Cough,2024-07,Summer,1810,872,2026-12-31
+Bromhexine,Cough,2024-08,Summer,1551,872,2026-12-31
+Bromhexine,Cough,2024-09,Monsoon,1676,872,2026-12-31
+Bromhexine,Cough,2024-10,Monsoon,1715,872,2026-12-31
+Bromhexine,Cough,2024-11,Monsoon,1549,872,2026-12-31
+Bromhexine,Cough,2024-12,Winter,1629,872,2026-12-31
+Carbocisteine,Cough,2024-01,Winter,1625,698,2026-12-31
+Carbocisteine,Cough,2024-02,Winter,1662,698,2026-12-31
+Carbocisteine,Cough,2024-03,Spring,1932,698,2026-12-31
+Carbocisteine,Cough,2024-04,Spring,1715,698,2026-12-31
+Carbocisteine,Cough,2024-05,Spring,1529,698,2026-12-31
+Carbocisteine,Cough,2024-06,Summer,1587,698,2026-12-31
+Carbocisteine,Cough,2024-07,Summer,1661,698,2026-12-31
+Carbocisteine,Cough,2024-08,Summer,1874,698,2026-12-31
+Carbocisteine,Cough,2024-09,Monsoon,1289,698,2026-12-31
+Carbocisteine,Cough,2024-10,Monsoon,1639,698,2026-12-31
+Carbocisteine,Cough,2024-11,Monsoon,1692,698,2026-12-31
+Carbocisteine,Cough,2024-12,Winter,1717,698,2026-12-31
+Celecoxib,Fever,2024-01,Winter,2014,1489,2026-12-31
+Celecoxib,Fever,2024-02,Winter,1648,1489,2026-12-31
+Celecoxib,Fever,2024-03,Spring,1500,1489,2026-12-31
+Celecoxib,Fever,2024-04,Spring,1634,1489,2026-12-31
+Celecoxib,Fever,2024-05,Spring,1894,1489,2026-12-31
+Celecoxib,Fever,2024-06,Summer,1656,1489,2026-12-31
+Celecoxib,Fever,2024-07,Summer,1801,1489,2026-12-31
+Celecoxib,Fever,2024-08,Summer,1630,1489,2026-12-31
+Celecoxib,Fever,2024-09,Monsoon,1542,1489,2026-12-31
+Celecoxib,Fever,2024-10,Monsoon,1671,1489,2026-12-31
+Celecoxib,Fever,2024-11,Monsoon,1812,1489,2026-12-31
+Celecoxib,Fever,2024-12,Winter,1661,1489,2026-12-31
+Cetirizine,Cold,2024-01,Winter,1643,1246,2026-12-31
+Cetirizine,Cold,2024-02,Winter,1671,1246,2026-12-31
+Cetirizine,Cold,2024-03,Spring,1747,1246,2026-12-31
+Cetirizine,Cold,2024-04,Spring,1576,1246,2026-12-31
+Cetirizine,Cold,2024-05,Spring,1820,1246,2026-12-31
+Cetirizine,Cold,2024-06,Summer,1757,1246,2026-12-31
+Cetirizine,Cold,2024-07,Summer,1586,1246,2026-12-31
+Cetirizine,Cold,2024-08,Summer,1584,1246,2026-12-31
+Cetirizine,Cold,2024-09,Monsoon,1468,1246,2026-12-31
+Cetirizine,Cold,2024-10,Monsoon,1520,1246,2026-12-31
+Cetirizine,Cold,2024-11,Monsoon,1686,1246,2026-12-31
+Cetirizine,Cold,2024-12,Winter,1891,1246,2026-12-31
+Chlorpheniramine + Dextromethorphan,Cough,2024-01,Winter,1781,922,2026-12-31
+Chlorpheniramine + Dextromethorphan,Cough,2024-02,Winter,1348,922,2026-12-31
+Chlorpheniramine + Dextromethorphan,Cough,2024-03,Spring,1844,922,2026-12-31
+Chlorpheniramine + Dextromethorphan,Cough,2024-04,Spring,1610,922,2026-12-31
+Chlorpheniramine + Dextromethorphan,Cough,2024-05,Spring,1879,922,2026-12-31
+Chlorpheniramine + Dextromethorphan,Cough,2024-06,Summer,1582,922,2026-12-31
+Chlorpheniramine + Dextromethorphan,Cough,2024-07,Summer,1424,922,2026-12-31
+Chlorpheniramine + Dextromethorphan,Cough,2024-08,Summer,1669,922,2026-12-31
+Chlorpheniramine + Dextromethorphan,Cough,2024-09,Monsoon,1805,922,2026-12-31
+Chlorpheniramine + Dextromethorphan,Cough,2024-10,Monsoon,1752,922,2026-12-31
+Chlorpheniramine + Dextromethorphan,Cough,2024-11,Monsoon,1786,922,2026-12-31
+Chlorpheniramine + Dextromethorphan,Cough,2024-12,Winter,1708,922,2026-12-31
+Chlorpheniramine Maleate,Cold,2024-01,Winter,1677,1264,2026-12-31
+Chlorpheniramine Maleate,Cold,2024-02,Winter,1727,1264,2026-12-31
+Chlorpheniramine Maleate,Cold,2024-03,Spring,1725,1264,2026-12-31
+Chlorpheniramine Maleate,Cold,2024-04,Spring,1663,1264,2026-12-31
+Chlorpheniramine Maleate,Cold,2024-05,Spring,1530,1264,2026-12-31
+Chlorpheniramine Maleate,Cold,2024-06,Summer,1853,1264,2026-12-31
+Chlorpheniramine Maleate,Cold,2024-07,Summer,1693,1264,2026-12-31
+Chlorpheniramine Maleate,Cold,2024-08,Summer,1511,1264,2026-12-31
+Chlorpheniramine Maleate,Cold,2024-09,Monsoon,1372,1264,2026-12-31
+Chlorpheniramine Maleate,Cold,2024-10,Monsoon,1553,1264,2026-12-31
+Chlorpheniramine Maleate,Cold,2024-11,Monsoon,1789,1264,2026-12-31
+Chlorpheniramine Maleate,Cold,2024-12,Winter,1729,1264,2026-12-31
+Codeine (Prescription Only),Cough,2024-01,Winter,1823,1806,2026-12-31
+Codeine (Prescription Only),Cough,2024-02,Winter,1782,1806,2026-12-31
+Codeine (Prescription Only),Cough,2024-03,Spring,1591,1806,2026-12-31
+Codeine (Prescription Only),Cough,2024-04,Spring,1616,1806,2026-12-31
+Codeine (Prescription Only),Cough,2024-05,Spring,1733,1806,2026-12-31
+Codeine (Prescription Only),Cough,2024-06,Summer,1649,1806,2026-12-31
+Codeine (Prescription Only),Cough,2024-07,Summer,1589,1806,2026-12-31
+Codeine (Prescription Only),Cough,2024-08,Summer,1610,1806,2026-12-31
+Codeine (Prescription Only),Cough,2024-09,Monsoon,1632,1806,2026-12-31
+Codeine (Prescription Only),Cough,2024-10,Monsoon,1649,1806,2026-12-31
+Codeine (Prescription Only),Cough,2024-11,Monsoon,1686,1806,2026-12-31
+Codeine (Prescription Only),Cough,2024-12,Winter,1748,1806,2026-12-31
+Dextromethorphan,Cough,2024-01,Winter,1681,1445,2026-12-31
+Dextromethorphan,Cough,2024-02,Winter,1493,1445,2026-12-31
+Dextromethorphan,Cough,2024-03,Spring,1573,1445,2026-12-31
+Dextromethorphan,Cough,2024-04,Spring,1666,1445,2026-12-31
+Dextromethorphan,Cough,2024-05,Spring,1616,1445,2026-12-31
+Dextromethorphan,Cough,2024-06,Summer,2029,1445,2026-12-31
+Dextromethorphan,Cough,2024-07,Summer,1722,1445,2026-12-31
+Dextromethorphan,Cough,2024-08,Summer,1671,1445,2026-12-31
+Dextromethorphan,Cough,2024-09,Monsoon,1739,1445,2026-12-31
+Dextromethorphan,Cough,2024-10,Monsoon,1717,1445,2026-12-31
+Dextromethorphan,Cough,2024-11,Monsoon,1603,1445,2026-12-31
+Dextromethorphan,Cough,2024-12,Winter,1502,1445,2026-12-31
+Diclofenac,Fever,2024-01,Winter,1878,1660,2026-12-31
+Diclofenac,Fever,2024-02,Winter,1538,1660,2026-12-31
+Diclofenac,Fever,2024-03,Spring,1759,1660,2026-12-31
+Diclofenac,Fever,2024-04,Spring,1795,1660,2026-12-31
+Diclofenac,Fever,2024-05,Spring,1716,1660,2026-12-31
+Diclofenac,Fever,2024-06,Summer,1558,1660,2026-12-31
+Diclofenac,Fever,2024-07,Summer,1673,1660,2026-12-31
+Diclofenac,Fever,2024-08,Summer,1948,1660,2026-12-31
+Diclofenac,Fever,2024-09,Monsoon,1599,1660,2026-12-31
+Diclofenac,Fever,2024-10,Monsoon,1684,1660,2026-12-31
+Diclofenac,Fever,2024-11,Monsoon,1896,1660,2026-12-31
+Diclofenac,Fever,2024-12,Winter,1708,1660,2026-12-31
+Diphenhydramine,Cold,2024-01,Winter,1642,913,2026-12-31
+Diphenhydramine,Cold,2024-02,Winter,1637,913,2026-12-31
+Diphenhydramine,Cold,2024-03,Spring,1637,913,2026-12-31
+Diphenhydramine,Cold,2024-04,Spring,1713,913,2026-12-31
+Diphenhydramine,Cold,2024-05,Spring,1453,913,2026-12-31
+Diphenhydramine,Cold,2024-06,Summer,1666,913,2026-12-31
+Diphenhydramine,Cold,2024-07,Summer,1600,913,2026-12-31
+Diphenhydramine,Cold,2024-08,Summer,1685,913,2026-12-31
+Diphenhydramine,Cold,2024-09,Monsoon,1218,913,2026-12-31
+Diphenhydramine,Cold,2024-10,Monsoon,1687,913,2026-12-31
+Diphenhydramine,Cold,2024-11,Monsoon,1777,913,2026-12-31
+Diphenhydramine,Cold,2024-12,Winter,1936,913,2026-12-31
+Fexofenadine,Cold,2024-01,Winter,1460,1020,2026-12-31
+Fexofenadine,Cold,2024-02,Winter,1606,1020,2026-12-31
+Fexofenadine,Cold,2024-03,Spring,2077,1020,2026-12-31
+Fexofenadine,Cold,2024-04,Spring,1749,1020,2026-12-31
+Fexofenadine,Cold,2024-05,Spring,1604,1020,2026-12-31
+Fexofenadine,Cold,2024-06,Summer,1655,1020,2026-12-31
+Fexofenadine,Cold,2024-07,Summer,1795,1020,2026-12-31
+Fexofenadine,Cold,2024-08,Summer,1879,1020,2026-12-31
+Fexofenadine,Cold,2024-09,Monsoon,1852,1020,2026-12-31
+Fexofenadine,Cold,2024-10,Monsoon,1749,1020,2026-12-31
+Fexofenadine,Cold,2024-11,Monsoon,1742,1020,2026-12-31
+Fexofenadine,Cold,2024-12,Winter,1646,1020,2026-12-31
+Guaifenesin,Cough,2024-01,Winter,1871,716,2026-12-31
+Guaifenesin,Cough,2024-02,Winter,1410,716,2026-12-31
+Guaifenesin,Cough,2024-03,Spring,1501,716,2026-12-31
+Guaifenesin,Cough,2024-04,Spring,1684,716,2026-12-31
+Guaifenesin,Cough,2024-05,Spring,1751,716,2026-12-31
+Guaifenesin,Cough,2024-06,Summer,1767,716,2026-12-31
+Guaifenesin,Cough,2024-07,Summer,1445,716,2026-12-31
+Guaifenesin,Cough,2024-08,Summer,1739,716,2026-12-31
+Guaifenesin,Cough,2024-09,Monsoon,1381,716,2026-12-31
+Guaifenesin,Cough,2024-10,Monsoon,1648,716,2026-12-31
+Guaifenesin,Cough,2024-11,Monsoon,1755,716,2026-12-31
+Guaifenesin,Cough,2024-12,Winter,1594,716,2026-12-31
+Ibuprofen,Fever,2024-01,Winter,1703,1477,2026-12-31
+Ibuprofen,Fever,2024-02,Winter,1693,1477,2026-12-31
+Ibuprofen,Fever,2024-03,Spring,1767,1477,2026-12-31
+Ibuprofen,Fever,2024-04,Spring,1698,1477,2026-12-31
+Ibuprofen,Fever,2024-05,Spring,1774,1477,2026-12-31
+Ibuprofen,Fever,2024-06,Summer,1863,1477,2026-12-31
+Ibuprofen,Fever,2024-07,Summer,1442,1477,2026-12-31
+Ibuprofen,Fever,2024-08,Summer,1579,1477,2026-12-31
+Ibuprofen,Fever,2024-09,Monsoon,1627,1477,2026-12-31
+Ibuprofen,Fever,2024-10,Monsoon,1701,1477,2026-12-31
+Ibuprofen,Fever,2024-11,Monsoon,1799,1477,2026-12-31
+Ibuprofen,Fever,2024-12,Winter,1758,1477,2026-12-31
+Ibuprofen + Pseudoephedrine,Cold,2024-01,Winter,1540,1632,2026-12-31
+Ibuprofen + Pseudoephedrine,Cold,2024-02,Winter,1595,1632,2026-12-31
+Ibuprofen + Pseudoephedrine,Cold,2024-03,Spring,1812,1632,2026-12-31
+Ibuprofen + Pseudoephedrine,Cold,2024-04,Spring,1771,1632,2026-12-31
+Ibuprofen + Pseudoephedrine,Cold,2024-05,Spring,1599,1632,2026-12-31
+Ibuprofen + Pseudoephedrine,Cold,2024-06,Summer,1546,1632,2026-12-31
+Ibuprofen + Pseudoephedrine,Cold,2024-07,Summer,2006,1632,2026-12-31
+Ibuprofen + Pseudoephedrine,Cold,2024-08,Summer,1699,1632,2026-12-31
+Ibuprofen + Pseudoephedrine,Cold,2024-09,Monsoon,1757,1632,2026-12-31
+Ibuprofen + Pseudoephedrine,Cold,2024-10,Monsoon,1738,1632,2026-12-31
+Ibuprofen + Pseudoephedrine,Cold,2024-11,Monsoon,1589,1632,2026-12-31
+Ibuprofen + Pseudoephedrine,Cold,2024-12,Winter,1614,1632,2026-12-31
+Ketorolac,Fever,2024-01,Winter,1496,1024,2026-12-31
+Ketorolac,Fever,2024-02,Winter,1604,1024,2026-12-31
+Ketorolac,Fever,2024-03,Spring,1846,1024,2026-12-31
+Ketorolac,Fever,2024-04,Spring,1813,1024,2026-12-31
+Ketorolac,Fever,2024-05,Spring,1810,1024,2026-12-31
+Ketorolac,Fever,2024-06,Summer,1856,1024,2026-12-31
+Ketorolac,Fever,2024-07,Summer,1552,1024,2026-12-31
+Ketorolac,Fever,2024-08,Summer,1687,1024,2026-12-31
+Ketorolac,Fever,2024-09,Monsoon,1450,1024,2026-12-31
+Ketorolac,Fever,2024-10,Monsoon,1566,1024,2026-12-31
+Ketorolac,Fever,2024-11,Monsoon,1591,1024,2026-12-31
+Ketorolac,Fever,2024-12,Winter,1729,1024,2026-12-31
+Levocetirizine,Cold,2024-01,Winter,1495,1150,2026-12-31
+Levocetirizine,Cold,2024-02,Winter,1443,1150,2026-12-31
+Levocetirizine,Cold,2024-03,Spring,1852,1150,2026-12-31
+Levocetirizine,Cold,2024-04,Spring,1675,1150,2026-12-31
+Levocetirizine,Cold,2024-05,Spring,1537,1150,2026-12-31
+Levocetirizine,Cold,2024-06,Summer,1530,1150,2026-12-31
+Levocetirizine,Cold,2024-07,Summer,1563,1150,2026-12-31
+Levocetirizine,Cold,2024-08,Summer,1683,1150,2026-12-31
+Levocetirizine,Cold,2024-09,Monsoon,1774,1150,2026-12-31
+Levocetirizine,Cold,2024-10,Monsoon,1769,1150,2026-12-31
+Levocetirizine,Cold,2024-11,Monsoon,1804,1150,2026-12-31
+Levocetirizine,Cold,2024-12,Winter,1623,1150,2026-12-31
+Levodropropizine,Cough,2024-01,Winter,1662,808,2026-12-31
+Levodropropizine,Cough,2024-02,Winter,1664,808,2026-12-31
+Levodropropizine,Cough,2024-03,Spring,1591,808,2026-12-31
+Levodropropizine,Cough,2024-04,Spring,1490,808,2026-12-31
+Levodropropizine,Cough,2024-05,Spring,1362,808,2026-12-31
+Levodropropizine,Cough,2024-06,Summer,1751,808,2026-12-31
+Levodropropizine,Cough,2024-07,Summer,1760,808,2026-12-31
+Levodropropizine,Cough,2024-08,Summer,1835,808,2026-12-31
+Levodropropizine,Cough,2024-09,Monsoon,1913,808,2026-12-31
+Levodropropizine,Cough,2024-10,Monsoon,1808,808,2026-12-31
+Levodropropizine,Cough,2024-11,Monsoon,1267,808,2026-12-31
+Levodropropizine,Cough,2024-12,Winter,1699,808,2026-12-31
+Mefenamic Acid,Fever,2024-01,Winter,1575,1021,2026-12-31
+Mefenamic Acid,Fever,2024-02,Winter,1510,1021,2026-12-31
+Mefenamic Acid,Fever,2024-03,Spring,1732,1021,2026-12-31
+Mefenamic Acid,Fever,2024-04,Spring,1669,1021,2026-12-31
+Mefenamic Acid,Fever,2024-05,Spring,1867,1021,2026-12-31
+Mefenamic Acid,Fever,2024-06,Summer,1658,1021,2026-12-31
+Mefenamic Acid,Fever,2024-07,Summer,1717,1021,2026-12-31
+Mefenamic Acid,Fever,2024-08,Summer,1701,1021,2026-12-31
+Mefenamic Acid,Fever,2024-09,Monsoon,1689,1021,2026-12-31
+Mefenamic Acid,Fever,2024-10,Monsoon,1819,1021,2026-12-31
+Mefenamic Acid,Fever,2024-11,Monsoon,1650,1021,2026-12-31
+Mefenamic Acid,Fever,2024-12,Winter,1881,1021,2026-12-31
+Montelukast,Cold,2024-01,Winter,1633,1352,2026-12-31
+Montelukast,Cold,2024-02,Winter,1429,1352,2026-12-31
+Montelukast,Cold,2024-03,Spring,1670,1352,2026-12-31
+Montelukast,Cold,2024-04,Spring,1766,1352,2026-12-31
+Montelukast,Cold,2024-05,Spring,1418,1352,2026-12-31
+Montelukast,Cold,2024-06,Summer,1647,1352,2026-12-31
+Montelukast,Cold,2024-07,Summer,1849,1352,2026-12-31
+Montelukast,Cold,2024-08,Summer,1899,1352,2026-12-31
+Montelukast,Cold,2024-09,Monsoon,1409,1352,2026-12-31
+Montelukast,Cold,2024-10,Monsoon,1701,1352,2026-12-31
+Montelukast,Cold,2024-11,Monsoon,1596,1352,2026-12-31
+Montelukast,Cold,2024-12,Winter,1633,1352,2026-12-31
+Naproxen,Fever,2024-01,Winter,1676,1446,2026-12-31
+Naproxen,Fever,2024-02,Winter,1651,1446,2026-12-31
+Naproxen,Fever,2024-03,Spring,1887,1446,2026-12-31
+Naproxen,Fever,2024-04,Spring,1678,1446,2026-12-31
+Naproxen,Fever,2024-05,Spring,1685,1446,2026-12-31
+Naproxen,Fever,2024-06,Summer,1694,1446,2026-12-31
+Naproxen,Fever,2024-07,Summer,1674,1446,2026-12-31
+Naproxen,Fever,2024-08,Summer,1657,1446,2026-12-31
+Naproxen,Fever,2024-09,Monsoon,1393,1446,2026-12-31
+Naproxen,Fever,2024-10,Monsoon,1405,1446,2026-12-31
+Naproxen,Fever,2024-11,Monsoon,1683,1446,2026-12-31
+Naproxen,Fever,2024-12,Winter,1689,1446,2026-12-31
+Nimesulide,Fever,2024-01,Winter,1926,659,2026-12-31
+Nimesulide,Fever,2024-02,Winter,1478,659,2026-12-31
+Nimesulide,Fever,2024-03,Spring,1597,659,2026-12-31
+Nimesulide,Fever,2024-04,Spring,1876,659,2026-12-31
+Nimesulide,Fever,2024-05,Spring,1805,659,2026-12-31
+Nimesulide,Fever,2024-06,Summer,1841,659,2026-12-31
+Nimesulide,Fever,2024-07,Summer,1624,659,2026-12-31
+Nimesulide,Fever,2024-08,Summer,1650,659,2026-12-31
+Nimesulide,Fever,2024-09,Monsoon,1891,659,2026-12-31
+Nimesulide,Fever,2024-10,Monsoon,1780,659,2026-12-31
+Nimesulide,Fever,2024-11,Monsoon,1534,659,2026-12-31
+Nimesulide,Fever,2024-12,Winter,1837,659,2026-12-31
+Paracetamol,Cold,2024-01,Winter,1728,1346,2026-12-31
+Paracetamol,Cold,2024-02,Winter,1575,1346,2026-12-31
+Paracetamol,Cold,2024-03,Spring,1828,1346,2026-12-31
+Paracetamol,Cold,2024-04,Spring,1440,1346,2026-12-31
+Paracetamol,Cold,2024-05,Spring,1617,1346,2026-12-31
+Paracetamol,Cold,2024-06,Summer,1727,1346,2026-12-31
+Paracetamol,Cold,2024-07,Summer,1537,1346,2026-12-31
+Paracetamol,Cold,2024-08,Summer,1574,1346,2026-12-31
+Paracetamol,Cold,2024-09,Monsoon,1657,1346,2026-12-31
+Paracetamol,Cold,2024-10,Monsoon,1796,1346,2026-12-31
+Paracetamol,Cold,2024-11,Monsoon,1465,1346,2026-12-31
+Paracetamol,Cold,2024-12,Winter,1387,1346,2026-12-31
+Paracetamol,Fever,2024-01,Winter,1467,946,2026-12-31
+Paracetamol,Fever,2024-02,Winter,1318,946,2026-12-31
+Paracetamol,Fever,2024-03,Spring,1804,946,2026-12-31
+Paracetamol,Fever,2024-04,Spring,1400,946,2026-12-31
+Paracetamol,Fever,2024-05,Spring,1750,946,2026-12-31
+Paracetamol,Fever,2024-06,Summer,1353,946,2026-12-31
+Paracetamol,Fever,2024-07,Summer,1665,946,2026-12-31
+Paracetamol,Fever,2024-08,Summer,1602,946,2026-12-31
+Paracetamol,Fever,2024-09,Monsoon,1719,946,2026-12-31
+Paracetamol,Fever,2024-10,Monsoon,1780,946,2026-12-31
+Paracetamol,Fever,2024-11,Monsoon,1422,946,2026-12-31
+Paracetamol,Fever,2024-12,Winter,1639,946,2026-12-31
+Phenylephrine,Cold,2024-01,Winter,1512,1704,2026-12-31
+Phenylephrine,Cold,2024-02,Winter,1736,1704,2026-12-31
+Phenylephrine,Cold,2024-03,Spring,1641,1704,2026-12-31
+Phenylephrine,Cold,2024-04,Spring,1707,1704,2026-12-31
+Phenylephrine,Cold,2024-05,Spring,1750,1704,2026-12-31
+Phenylephrine,Cold,2024-06,Summer,1594,1704,2026-12-31
+Phenylephrine,Cold,2024-07,Summer,1367,1704,2026-12-31
+Phenylephrine,Cold,2024-08,Summer,1846,1704,2026-12-31
+Phenylephrine,Cold,2024-09,Monsoon,1710,1704,2026-12-31
+Phenylephrine,Cold,2024-10,Monsoon,1749,1704,2026-12-31
+Phenylephrine,Cold,2024-11,Monsoon,1645,1704,2026-12-31
+Phenylephrine,Cold,2024-12,Winter,1473,1704,2026-12-31
+Pseudoephedrine,Cold,2024-01,Winter,1696,1024,2026-12-31
+Pseudoephedrine,Cold,2024-02,Winter,1683,1024,2026-12-31
+Pseudoephedrine,Cold,2024-03,Spring,1862,1024,2026-12-31
+Pseudoephedrine,Cold,2024-04,Spring,1354,1024,2026-12-31
+Pseudoephedrine,Cold,2024-05,Spring,1512,1024,2026-12-31
+Pseudoephedrine,Cold,2024-06,Summer,1399,1024,2026-12-31
+Pseudoephedrine,Cold,2024-07,Summer,1554,1024,2026-12-31
+Pseudoephedrine,Cold,2024-08,Summer,1852,1024,2026-12-31
+Pseudoephedrine,Cold,2024-09,Monsoon,1808,1024,2026-12-31
+Pseudoephedrine,Cold,2024-10,Monsoon,1679,1024,2026-12-31
+Pseudoephedrine,Cold,2024-11,Monsoon,1846,1024,2026-12-31
+Pseudoephedrine,Cold,2024-12,Winter,1552,1024,2026-12-31
+Terbutaline,Cough,2024-01,Winter,1861,1365,2026-12-31
+Terbutaline,Cough,2024-02,Winter,1541,1365,2026-12-31
+Terbutaline,Cough,2024-03,Spring,1925,1365,2026-12-31
+Terbutaline,Cough,2024-04,Spring,1696,1365,2026-12-31
+Terbutaline,Cough,2024-05,Spring,1728,1365,2026-12-31
+Terbutaline,Cough,2024-06,Summer,1532,1365,2026-12-31
+Terbutaline,Cough,2024-07,Summer,1567,1365,2026-12-31
+Terbutaline,Cough,2024-08,Summer,1893,1365,2026-12-31
+Terbutaline,Cough,2024-09,Monsoon,1834,1365,2026-12-31
+Terbutaline,Cough,2024-10,Monsoon,1760,1365,2026-12-31
+Terbutaline,Cough,2024-11,Monsoon,1583,1365,2026-12-31
+Terbutaline,Cough,2024-12,Winter,1524,1365,2026-12-31
