@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Prediction Result</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #c3ecf3, #e0c3fc);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .result-box {
+            background: #ffffff;
+            padding: 40px;
+            border-radius: 20px;
+            box-shadow: 0 8px 30px rgba(0, 0, 0, 0.15);
+            width: 90%;
+            max-width: 750px;
+            transition: transform 0.4s ease, box-shadow 0.4s ease;
+        }
+
+        .result-box:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 12px 35px rgba(0, 0, 0, 0.2);
+        }
+
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            font-size: 28px;
+            margin-bottom: 20px;
+        }
+
+        h2, h3 {
+            color: #34495e;
+            margin-top: 25px;
+            margin-bottom: 10px;
+        }
+
+        p {
+            font-size: 16px;
+            color: #555;
+            margin-bottom: 10px;
+        }
+
+        p strong {
+            color: #2c3e50;
+        }
+
+        ul {
+            padding-left: 20px;
+            list-style-type: disc;
+            margin-bottom: 30px;
+        }
+
+        li {
+            font-size: 15px;
+            margin-bottom: 8px;
+            color: #2c3e50;
+        }
+
+        a {
+            display: inline-block;
+            margin-top: 20px;
+            text-decoration: none;
+            background-color: #3498db;
+            color: white;
+            padding: 10px 18px;
+            border-radius: 8px;
+            font-size: 15px;
+            transition: background-color 0.3s ease;
+        }
+
+        a:hover {
+            background-color: #2980b9;
+        }
+
+        .chart-container {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .chart-container img {
+            width: 100%;
+            max-width: 500px;
+            border-radius: 12px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+            transition: transform 0.3s ease;
+        }
+
+        .chart-container img:hover {
+            transform: scale(1.05);
+        }
+
+        @media screen and (max-width: 600px) {
+            .result-box {
+                padding: 25px;
+            }
+
+            h1 {
+                font-size: 22px;
+            }
+
+            ul {
+                padding-left: 15px;
+            }
+
+            li {
+                font-size: 14px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<div class="result-box">
+    {% if error %}
+        <h2>{{ error }}</h2>
+    {% else %}
+        <h1>Prediction for {{ medicine_name }}</h1>
+        <p><strong>Current Stock:</strong> {{ current_stock }}</p>
+        <p><strong>Recommended Production for Next Year:</strong> {{ required_production }}</p>
+        <p><strong>Current Stock Expiry Date:</strong> {{ expiry_date }}</p>
+        <p><strong>Predicted Expiry Date for New Production:</strong> {{ predicted_expiry }}</p>
+        <p><strong>Peak Season:</strong> {{ peak_season }}</p>
+
+        <h3>Predicted Sales for Next 12 Months:</h3>
+        <ul>
+            {% set months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'] %}
+            {% for sale in future_sales %}
+                <li><strong>{{ months[loop.index - 1] }}:</strong> {{ sale|round(2) }}</li>
+            {% endfor %}
+        </ul>
+
+        <h3>Sales Distribution Across Seasons:</h3>
+        <div class="chart-container">
+            <img src="data:image/png;base64,{{ chart_base64 }}" alt="Sales Chart" />
+        </div>
+    {% endif %}
+
+    <a href="/">← Back to Home</a>
+</div>
+
+</body>
+</html>
