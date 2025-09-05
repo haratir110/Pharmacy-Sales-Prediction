@@ -6,7 +6,7 @@ It uses an **XGBoost regression model** trained on CSV datasets and provides for
 
 ---
 
-## 🚀 Features
+## Features
 - Predicts monthly pharmacy sales from historical records  
 - Built with **Flask** for serving predictions via a web interface  
 - **XGBoost regression model** for demand forecasting  
@@ -16,7 +16,7 @@ It uses an **XGBoost regression model** trained on CSV datasets and provides for
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Backend:** Python, Flask  
 - **Machine Learning:** XGBoost, Scikit-learn, Statsmodels, Pandas, NumPy  
 - **Visualization:** Matplotlib  
@@ -25,7 +25,7 @@ It uses an **XGBoost regression model** trained on CSV datasets and provides for
 
 ---
 
-## ▶️ How to Run
+## How to Run
 1. Clone this repo  
    ```bash
    git clone https://github.com/<your-username>/pharmacy-prediction.git
